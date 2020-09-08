@@ -1,0 +1,19 @@
+{
+  "name": "animate-elements-on-scroll",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FelipeDecome/animate-elements-on-scroll.git",
+  "author": "Felipe Decome <felipe.decome@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "start": "node test/server.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "ts-loader": "^8.0.3",
+    "typescript": "^4.0.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
